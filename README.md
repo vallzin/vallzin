@@ -19,7 +19,7 @@
 <div align="center">
   <a href="https://github.com/Vallzin">
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Vallzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0GustavoAmorim&layout=compact&langs_count=7&theme=tokyonight"/></a>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&theme=theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
