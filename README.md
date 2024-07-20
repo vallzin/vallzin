@@ -57,7 +57,6 @@
 
 ### Feito com 
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
-<a href="#"></a>
 </img>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vallzin) 
