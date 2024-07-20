@@ -1,14 +1,13 @@
-
 # Conecte-se com V@llzin (Valmilson Lucena)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valmilson/)
 ## Formação
-- Estudante de ADS (Análise e Desenvolvimento de Sistemas) Unifanor Wyden. 
-- Formado em Tecnologia de Construção de Edifícios pela mesma instituição.
+- Estudante de ADS (Análise e Desenvolvimento de Sistemas) Unifanor Wyden. ✔️ 
+- Formado em Tecnologia de Construção de Edifícios Unifanor Wyden. ✔️ 
 ## Cursos de Extensão
-- Bootcampo Santander 2024 - Backend com Java
-- Desenvolvimento Java com IA
-- Bootcamp Philips Fullstack Developer
-- Bootcamp de Java com a Claro
+- Bootcampo Santander 2024 - Backend com Java ✔️ 
+- Desenvolvimento Java com IA ✔️ 
+- Bootcamp Philips Fullstack Developer ✏️ 
+- Bootcamp de Java com a Claro ✏️ 
 
 ## Visualizações
 <div align="left">
