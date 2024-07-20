@@ -7,7 +7,7 @@
 - Bootcampo Santander 2024 - Backend com Java ✔️ 
 - Desenvolvimento Java com IA ✔️ 
 - Bootcamp Philips Fullstack Developer ✏️ 
-- Bootcamp de Java com a Claro ✏️ 
+-  Bootcamp de Java com a Claro ✏️ 
 
 ## Visualizações
 <div align="left">
