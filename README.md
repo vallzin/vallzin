@@ -14,12 +14,13 @@
 
 ## Visualizações
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats) -->
 
 ## Status GitHub
 <div align="center">
   <a href="https://github.com/Vallzin">
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=Vallzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=tokyonight"/></a>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vallzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=tokyonight"/></a>
 </div>
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&theme=theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
