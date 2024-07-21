@@ -36,13 +36,18 @@
 
 <div align="left">
   <a href="https://github.com/Vallzin">
-      <img align="center" height="180em" width="700em" src="https://github-readme-stats.vercel.app/api?username=Vallzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=tokyonight"/>
+      <img align="center" height="180em"  
+          src="https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+      
   </a>
 </div>
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&theme=theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) -->
+<!--
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=dark"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&theme=theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+-->
 
 ## Habilidades  🔨  🔧 📚 ✒️ ✏️
 
@@ -52,11 +57,11 @@
 
 ### Linguagens de Programação
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Bibliotecas e Frameworks
 
-![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
+![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 
 ### Banco de Dados
 
