@@ -1,4 +1,5 @@
 name: GitHub-Profile-3D-Contrib
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,24 +8,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.8.0
+      - uses: actions/checkout@v4
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@releases/v2
         with:
-          github_user: "vallzin"
-          image_output: "./profile-3d-contrib"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit and push changes
+          USERNAME: vallzin
+      - name: Commit & Push
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
           git add -A
-          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
+          git commit -m "Generated 3D profile contribution graph" || exit 0
           git push
