@@ -27,7 +27,7 @@
 ## Visualizações
 
 <div align="left">
-  <a href="https://github.com/Vallzin">
+  <a href="https://github.com/vallzin">
       <!--<img align="center" height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=vallzin/&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" />
   <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" src="https://git.io/streak-stats"/> 
       <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin/&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" /> -->
@@ -37,18 +37,20 @@
 ## Status GitHub
 
 <div align="left">
-  <a href="https://github.com/Vallzin">
+  <a href="https://github.com/vallzin">
       <img align="center" height="180em"  
           src="https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
       <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      
-  </a>
+  </br>
+  </br>
+       <img align="center" heigt="180" width="720" src="https://raw.githubusercontent.com/vallzin/vallzin/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  </a> 
+    
 </div>
 
-# Vallzin
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
+![](https://raw.githubusercontent.com/vallzin/vallzin/main/profile-3d-contrib/profile-night-rainbow.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=dark"/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&theme=theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
