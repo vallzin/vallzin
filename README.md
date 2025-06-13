@@ -40,12 +40,9 @@
   <a href="https://github.com/vallzin">
       <img align="center" height="180em"  
           src="https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-  </br>
-  </br>
-       <img align="center" heigt="180" width="720" src="https://raw.githubusercontent.com/vallzin/vallzin/main/profile-3d-contrib/profile-night-rainbow.svg" />
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/><br><br>
+      <img align="center" width="720" style="border-radius: 20px"; src="https://raw.githubusercontent.com/vallzin/vallzin/main/profile-3d-contrib/profile-gitblock.svg" />
   </a> 
-    
 </div>
 
 <!--
