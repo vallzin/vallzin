@@ -10,13 +10,16 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      
+      # PASSO CORRIGIDO AQUI (nova sintaxe):
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        with:
+          github_user: "vallzin"  # Nome alterado de USERNAME para github_user
+          image_output: "./profile-3d-contrib"  # Agora é um input direto
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: "vallzin/Vallzin"
-          CALC_MODE: "true"
-          IMAGE_OUTPUT: "./profile-3d-contrib"
+      
       - name: Commit & Push
         run: |
           git config user.name github-actions
