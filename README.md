@@ -28,7 +28,10 @@
 
 <div align="left">
   <a href="https://github.com/Vallzin">
-  <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" src="https://git.io/streak-stats"/>
+      <!--<img align="center" height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=vallzin/&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" />
+  <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" src="https://git.io/streak-stats"/> 
+      <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin/&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" /> -->
+      <img align="center" height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=vallzin&background=000000&border=7F36EB&stroke=EB4FD7&ring=DB9114DD&fire=EB0202&currStreakNum=6CEB1B&sideNums=34DDEB&currStreakLabel=7A16BED0&sideLabels=6CFFD7DA&dates=2C6858D8" />
 </div> 
 
 ## Status GitHub
