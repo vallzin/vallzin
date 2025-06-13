@@ -7,7 +7,7 @@
 - Estudante de ADS (Análise e Desenvolvimento de Sistemas) Unifanor Wyden. ✔️
 - Formado em Tecnologia de Construção de Edifícios Unifanor Wyden. ✔️
 
-## Cursos de Extensão
+## BootCamps
 
 <div align="left">
     <a href="https://web.dio.me/track/santander-2024-backend-com-java?tab=about">
@@ -24,13 +24,12 @@
     </a> 
 </div>
 
-
 ## Visualizações
 
 <div align="left">
   <a href="https://github.com/Vallzin">
-  <img align="center" height="170em" src="https://streak-stats.demolab.com/?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" src="https://git.io/streak-stats"/ alt="visualizações">
-</div>
+  <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" src="https://git.io/streak-stats"/>
+</div> 
 
 ## Status GitHub
 
