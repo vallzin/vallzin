@@ -3,27 +3,28 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      
-      # PASSO CORRIGIDO AQUI (nova sintaxe):
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.0
+        uses: yoshi389111/github-profile-3d-contrib@0.8.0
         with:
-          github_user: "vallzin"  # Nome alterado de USERNAME para github_user
-          image_output: "./profile-3d-contrib"  # Agora é um input direto
+          github_user: "vallzin"
+          image_output: "./profile-3d-contrib"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Commit & Push
+
+      - name: Commit and push changes
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add -A
-          git commit -m "Update 3D contribution graph" || echo "No changes"
+          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
           git push
