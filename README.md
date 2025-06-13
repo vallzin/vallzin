@@ -47,7 +47,7 @@
 
 # Vallzin
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=dark"/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&theme=theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
