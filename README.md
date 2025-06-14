@@ -31,7 +31,7 @@
       <!--<img align="center" height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=vallzin/&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" />
   <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" src="https://git.io/streak-stats"/> 
       <img align="center" height="170em" src="https://streak-stats.demolab.com?user=Vallzin/&theme=shadow-purple&background=000&border=30A3DC&dates=FFF" /> -->
-      <img align="center" height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=vallzin&background=000000&border=7F36EB&stroke=EB4FD7&ring=DB9114DD&fire=EB0202&currStreakNum=6CEB1B&sideNums=34DDEB&currStreakLabel=7A16BED0&sideLabels=6CFFD7DA&dates=2C6858D8" />
+      <img align="center" height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=vallzin&background=1C0A0A13&border=8B5AEB&stroke=8B5AEB&ring=EB8139&fire=EB0000&currStreakNum=EBE00C&sideNums=80DEEB&currStreakLabel=CB0BAB&sideLabels=90EBBD&dates=EB717196" />
 </div> 
 
 ## Status GitHub
@@ -39,8 +39,8 @@
 <div align="left">
   <a href="https://github.com/vallzin">
       <img align="center" height="180em"  
-          src="https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
-      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF"/><br><br>
+          src="https://github-readme-stats.vercel.app/api?username=Vallzin&theme=transparent&bg_color=1C0A0A13&border_color=8B5AEB&show_icons=true&icon_color=30A3DC&title_color=CB0BAB&text_color=90EBBD"/>
+      <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallzin&layout=compact&langs_count=7&theme=transparent&bg_color=1C0A0A13&border_color=8B5AEB&show_icons=true&icon_color=80DEEB&title_color=CB0BAB&text_color=90EBBD"/><br><br>
       <img align="center" width="720" style="border-radius: 20px"; src="https://raw.githubusercontent.com/vallzin/vallzin/main/profile-3d-contrib/profile-gitblock.svg" />
   </a> 
 </div>
@@ -93,7 +93,7 @@
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vallzin&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vallzin&repo=dio-lab-open-source&bg_color=1C0A0A13&border_color=8B5AEB&show_icons=true&icon_color=30A3DC&title_color=CB0BAB&text_color=90EBBD)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
 #
 ### Feito com 
 <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
