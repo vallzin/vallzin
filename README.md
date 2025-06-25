@@ -16,12 +16,14 @@
     <a href="https://web.dio.me/track/coding-future-gft-desenvolvimento-java-com-ia?tab=about">
       <img align="center" height="120em" src="https://hermes.dio.me/tracks/be43294e-4b68-43b0-9f03-d4221f293c45.png" title="Desenvolvimento Java com IA ✔️ "/>
     </a> 
+    <!--
     <a href="https://web.dio.me/track/5c0a81e0-3566-4314-8075-298147b2858d?tab=about">
       <img align="center" height="120em" src="https://hermes.dio.me/courses/badge/a1be34f1-c9d7-4796-a474-5162ecb3164a.png" title="Philips Fullstack Developer 📚 ✒️ ✏️ 🔨 "/>
     </a> 
     <a href="https://www.dio.me/certificate/GVDT7TNU/share">
       <img align="center" height="120em" src="https://hermes.dio.me/courses/badge/5aba7335-7738-412f-8f18-8bbece07473b.png" title="Bootcamp de Java com a Claro ✔️ "/>
     </a> 
+    -->
 </div>
 
 ## Visualizações
