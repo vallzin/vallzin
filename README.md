@@ -18,7 +18,6 @@
     </a> 
     <a href="https://web.dio.me/track/ntt-data-java-e-ia-para-iniciantes">
       <img align="center" height="120em" src="https://assets.dio.me/4OLRVb-nQRlJUhi5BqgAlSHqH6W1ncfk-8E2kFqvlJo/f:webp/h:413/q:80/w:413/L3JhbmtpbmcvNmE3NzgyOTQtODIwZS00NTVhLTkxNjctOTU1YzYxYjZmMjZjLnBuZw" title="NTT Data Java e IA para iniciantes 📚 ✒️ ✏️ 🔨 "/>
-    </a> 
 <!--
     <a href="https://www.dio.me/certificate/GVDT7TNU/share">
       <img align="center" height="120em" src="https://hermes.dio.me/courses/badge/5aba7335-7738-412f-8f18-8bbece07473b.png" title="Bootcamp de Java com a Claro ✔️ "/>
