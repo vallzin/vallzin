@@ -4,7 +4,7 @@
 
 ## Formação
 
-- Estudante de ADS (Análise e Desenvolvimento de Sistemas) Unifanor Wyden. ✔️
+- Formado em ADS (Análise e Desenvolvimento de Sistemas) Unifanor Wyden. ✔️
 - Formado em Tecnologia de Construção de Edifícios Unifanor Wyden. ✔️
 
 ## BootCamps
