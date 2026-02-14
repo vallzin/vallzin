@@ -94,7 +94,7 @@
 
 ## Minhas Contribuições
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Vallzin&repo=dio-lab-open-source&bg_color=1C0A0A13&border_color=8B5AEB&show_icons=true&icon_color=30A3DC&title_color=CB0BAB&text_color=90EBBD)](https://github.com/vallzin/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vallzin&repo=dio-lab-open-source&bg_color=1C0A0A13&border_color=8B5AEB&show_icons=true&icon_color=30A3DC&title_color=CB0BAB&text_color=90EBBD)](https://github.com/vallzin/SEUREPOSITORIO)
 [![DIO Lab](https://github-readme-stats.vercel.app/api/pin/?username=vallzin&repo=dio-lab-open-source&bg_color=1C0A0A13&border_color=8B5AEB&show_icons=true&icon_color=30A3DC&title_color=CB0BAB&text_color=90EBBD)](https://github.com/vallzin/dio-lab-open-source)
 #
 ### Feito com 
